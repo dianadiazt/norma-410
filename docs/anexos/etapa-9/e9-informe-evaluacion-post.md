@@ -1,0 +1,42 @@
+---
+title: Anexo E9 - Informe Evaluación Post Implementación
+---
+
+# Anexo_E9_Informe_Evaluacion_Post
+## Informe de Evaluación Post Implementación
+
+### 1. Datos generales
+| Campo | Información |
+|---|---|
+| Sistema / Requerimiento |  |
+| Versión |  |
+| Fecha evaluación |  |
+| Muestra de usuarios (si aplica) | Ej: 10 de 50 usuarios (representativa) |
+
+### 2. Metodología (resumen)
+- Técnica: encuesta / entrevista / observación.
+- Población: usuarios finales.
+- Muestra: indicar criterio si son muchos usuarios.
+
+### 3. Resultados
+| Indicador | Resultado | Evidencia |
+|---|---|---|
+| Satisfacción general |  |  |
+| Tiempo de atención (si aplica) |  |  |
+| Incidentes post producción |  |  |
+
+### 4. Conclusión
+Indicar si el sistema cumple expectativas y qué debe mejorarse.
+
+### 5. Firmas
+| Nombre | Cargo | Fecha | Firma |
+|---|---|---|---|
+|  | PO / Usuario |  |  |
+|  | DTI |  |  |
+
+
+## 📎 Documento descargable
+
+[📥Documento oficial](https://epmmop365-my.sharepoint.com/:w:/r/personal/diana_diaz_epmmop_gob_ec/Documents/DESARROLLO/NORMATIVA/ANEXOS/ETAPA%209%20%E2%80%93%20Evaluaci%C3%B3n%20y%20Mejora%20Continua/Anexo_E9_Informe_Evaluacion_Post.docx?d=w12a2c96002a84c29bc6d9a6d494667d9&csf=1&web=1&e=Nyo5b4)
+> El formato oficial se encuentra alojado en el repositorio institucional de documentos (SharePoint),
+> garantizando control de versiones, trazabilidad y seguridad de la información.

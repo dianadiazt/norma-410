@@ -1,0 +1,40 @@
+---
+title: Anexo E7 - Acta Resultado Paso a Producción
+---
+
+# Anexo_E7_Acta_Resultado_Paso_Produccion
+## Acta de Resultado de Paso a Producción
+
+### 1. Datos generales
+| Campo | Información |
+|---|---|
+| Sistema / Requerimiento |  |
+| Versión |  |
+| Fecha |  |
+| Responsable |  |
+
+### 2. Resultado de despliegue
+| Resultado | Detalle |
+|---|---|
+| Exitoso / Con incidentes / Fallido |  |
+
+### 3. Verificación post despliegue (smoke)
+| Validación | Resultado | Evidencia |
+|---|---|---|
+| Acceso sistema | OK/NOK |  |
+| Funcionalidad crítica | OK/NOK |  |
+| Logs sin errores críticos | OK/NOK |  |
+
+### 4. Firmas
+| Nombre | Cargo | Fecha | Firma |
+|---|---|---|---|
+|  | Responsable DTI |  |  |
+|  | Infra / Operación (si aplica) |  |  |
+
+
+## 📎 Documento descargable
+
+[📥Documento oficial](https://epmmop365-my.sharepoint.com/:w:/r/personal/diana_diaz_epmmop_gob_ec/Documents/DESARROLLO/NORMATIVA/ANEXOS/ETAPA%207%20%E2%80%93%20Paso%20a%20Producci%C3%B3n/ANEXO_E7_Acta_Resultado_Paso_Produccion.docx?d=wbe64c1c3229e4576983a565e42412238&csf=1&web=1&e=fqyBC5)
+
+> El formato oficial se encuentra alojado en el repositorio institucional de documentos (SharePoint),
+> garantizando control de versiones, trazabilidad y seguridad de la información.
