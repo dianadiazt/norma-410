@@ -37,6 +37,6 @@ Indicar si el sistema cumple expectativas y qué debe mejorarse.
 
 ## 📎 Documento descargable
 
-[📥Documento oficial](https://epmmop365-my.sharepoint.com/:w:/r/personal/diana_diaz_epmmop_gob_ec/Documents/DESARROLLO/NORMATIVA/ANEXOS/ETAPA%209%20%E2%80%93%20Evaluaci%C3%B3n%20y%20Mejora%20Continua/Anexo_E9_Informe_Evaluacion_Post.docx?d=w12a2c96002a84c29bc6d9a6d494667d9&csf=1&web=1&e=Nyo5b4)
+[📥Documento oficial](https://epmmop365-my.sharepoint.com/:w:/g/personal/diana_diaz_epmmop_gob_ec/IQBgyaISqAIpTLxtmm1JRmfZAfFGSaOjXkj8fcNefR8dF-U?e=6flHLf)
 > El formato oficial se encuentra alojado en el repositorio institucional de documentos (SharePoint),
 > garantizando control de versiones, trazabilidad y seguridad de la información.

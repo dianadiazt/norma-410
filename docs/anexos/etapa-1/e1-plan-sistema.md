@@ -91,7 +91,7 @@ Ejemplo:
 
 ## 📎 Documento descargable
 
-[📥Documento oficial](https://epmmop365-my.sharepoint.com/:w:/r/personal/diana_diaz_epmmop_gob_ec/Documents/DESARROLLO/NORMATIVA/ANEXOS/ETAPA%201%20%E2%80%93%20Planificaci%C3%B3n/Anexo_E1_Plan_Sistema.docx?d=w3570fb1e8ebb4f4f8d351f70ac5bb5ce&csf=1&web=1&e=UTdxYO)
+[📥Documento oficial](https://epmmop365-my.sharepoint.com/:w:/g/personal/diana_diaz_epmmop_gob_ec/IQAe-3A1u45PT401H3CsW7XOAWZLEzIeZ3diHepaNN9pnqA?e=63rlUm)
 
 > El formato oficial se encuentra alojado en el repositorio institucional de documentos (SharePoint),
 > garantizando control de versiones, trazabilidad y seguridad de la información.

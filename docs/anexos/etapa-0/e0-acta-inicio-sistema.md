@@ -51,8 +51,7 @@ Ejemplo: “Fortalece control interno y gobierno TI”.
 
 ## 📎 Documento descargable
 
-[📥Documento oficial](
-https://epmmop365-my.sharepoint.com/:w:/r/personal/diana_diaz_epmmop_gob_ec/Documents/DESARROLLO/NORMATIVA/ANEXOS/ETAPA%200%20%E2%80%93%20Sistema%20Nuevo/Anexo_E0_Acta_Inicio_Sistema_Nuevo.docx?d=w82757d51ebc94dfc86741d2f43631e59&csf=1&web=1&e=XeyLzJ)
+[📥Documento oficial](https://epmmop365-my.sharepoint.com/:w:/g/personal/diana_diaz_epmmop_gob_ec/IQBRfXWCyev8TYZ0HS9DYx5ZAeIRkxX-nq_xEJrb8ntGphI?e=PtCzxp)
 
 > El formato oficial se encuentra alojado en el repositorio institucional de documentos (SharePoint),
 > garantizando control de versiones, trazabilidad y seguridad de la información.

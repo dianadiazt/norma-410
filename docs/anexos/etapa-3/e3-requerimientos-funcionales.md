@@ -61,7 +61,7 @@ Ejemplo:
 
 ## 📎 Documento descargable
 
-[📥Documento oficial](https://epmmop365-my.sharepoint.com/:w:/r/personal/diana_diaz_epmmop_gob_ec/Documents/DESARROLLO/NORMATIVA/ANEXOS/ETAPA%203%20%E2%80%93%20Levantamiento%20y%20An%C3%A1lisis%20de%20Requerimientos/Anexo_E3_Requerimientos_Funcionales.docx?d=w47be9930d59c4aa6943ecdbfaa653dd8&csf=1&web=1&e=JBuPfR)
+[📥Documento oficial](https://epmmop365-my.sharepoint.com/:w:/g/personal/diana_diaz_epmmop_gob_ec/IQAwmb5HnNWmSpQ-zb-qZT3YAfDxPjl4hJfn0NraMslIWtQ?e=TvfGT3)
 
 > El formato oficial se encuentra alojado en el repositorio institucional de documentos (SharePoint),
 > garantizando control de versiones, trazabilidad y seguridad de la información.

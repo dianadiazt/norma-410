@@ -12,7 +12,7 @@ title: Anexo E6 - Registro de No Conformidades
 
 ## 📎 Documento descargable
 
-[📥Documento oficial](https://epmmop365-my.sharepoint.com/:w:/r/personal/diana_diaz_epmmop_gob_ec/Documents/DESARROLLO/NORMATIVA/ANEXOS/ETAPA%206%20%E2%80%93%20Pruebas/Anexo_E6_No_Conformidades.docx?d=wcfbad312fdf04528a4cc5af0b9249e7a&csf=1&web=1&e=Odurg7)
+[📥Documento oficial](https://epmmop365-my.sharepoint.com/:w:/g/personal/diana_diaz_epmmop_gob_ec/IQAS07rP8P0oRaTMWvC5JJ56Ae4x84ZMKeECle5HK6YjEZ0?e=n45efv)
 
 > El formato oficial se encuentra alojado en el repositorio institucional de documentos (SharePoint),
 > garantizando control de versiones, trazabilidad y seguridad de la información.

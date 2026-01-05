@@ -32,6 +32,6 @@ title: Anexo E8 - Acta de Capacitación
 
 ## 📎 Documento descargable
 
-[📥Documento oficial](https://epmmop365-my.sharepoint.com/:w:/r/personal/diana_diaz_epmmop_gob_ec/Documents/DESARROLLO/NORMATIVA/ANEXOS/ETAPA%208%20%E2%80%93%20Entrega%20y%20Capacitaci%C3%B3n/Anexo_E8_Acta_Capacitacion.docx?d=w2f74de827e384d5894edd781d8904e56&csf=1&web=1&e=sGJ8jP)
+[📥Documento oficial](https://epmmop365-my.sharepoint.com/:w:/g/personal/diana_diaz_epmmop_gob_ec/IQCC3nQvOH5YTZTt14HYkE5WAdT9DheJNO4wm5EWWPXfN1w?e=O8rbQk)
 > El formato oficial se encuentra alojado en el repositorio institucional de documentos (SharePoint),
 > garantizando control de versiones, trazabilidad y seguridad de la información.

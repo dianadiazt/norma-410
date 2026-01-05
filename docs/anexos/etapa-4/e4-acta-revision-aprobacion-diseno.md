@@ -42,7 +42,7 @@ title: Anexo E4 - Acta Revisión y Aprobación del Diseño
 
 ## 📎 Documento descargable
 
-[📥Documento oficial](https://epmmop365-my.sharepoint.com/:w:/r/personal/diana_diaz_epmmop_gob_ec/Documents/DESARROLLO/NORMATIVA/ANEXOS/ETAPA%204%20%E2%80%93%20Dise%C3%B1o%20de%20la%20Soluci%C3%B3n/Anexo_E4_Acta_Revision_Aprobacion_Diseno.docx?d=w6354a04d60dc42f9b41dea01e2b5f9ab&csf=1&web=1&e=7nx2kX)
+[📥Documento oficial](https://epmmop365-my.sharepoint.com/:w:/g/personal/diana_diaz_epmmop_gob_ec/IQBNoFRj3GD5QrQd6gHitfmrAXBBcLxdjBjG0gnKdaoiPig?e=AAITLX)
 
 > El formato oficial se encuentra alojado en el repositorio institucional de documentos (SharePoint),
 > garantizando control de versiones, trazabilidad y seguridad de la información.

@@ -120,7 +120,7 @@ export default {
                     collapsed: true,
                     items: [
                         {
-                            text: 'EP01 – Asignación de Roles y Responsabilidades',
+                            text: 'E5 – Cronograma detallado',
                             link: '/anexos/etapa-5/e5-cronograma-detallado',
                         },
                     ],

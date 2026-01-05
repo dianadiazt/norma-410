@@ -14,7 +14,7 @@ title: Anexo E3 - Matriz de Trazabilidad
 
 ## 📎 Documento descargable
 
-[📥Documento oficial](https://epmmop365-my.sharepoint.com/:w:/r/personal/diana_diaz_epmmop_gob_ec/Documents/DESARROLLO/NORMATIVA/ANEXOS/ETAPA%203%20%E2%80%93%20Levantamiento%20y%20An%C3%A1lisis%20de%20Requerimientos/Anexo_E3_Matriz_Trazabilidad.docx?d=w5f40e181077e4c9d840fc15c726ab462&csf=1&web=1&e=Nr3Cdg)
+[📥Documento oficial](https://epmmop365-my.sharepoint.com/:w:/g/personal/diana_diaz_epmmop_gob_ec/IQCB4UBffgedTIQPwVxyarRiAUplKFva3_EusME_vehy6Eo?e=EhdEaA)
 
 > El formato oficial se encuentra alojado en el repositorio institucional de documentos (SharePoint),
 > garantizando control de versiones, trazabilidad y seguridad de la información.

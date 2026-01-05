@@ -53,7 +53,7 @@ Ejemplo: “Depende de acceso a BD / ambiente pruebas / credenciales.”
 
 ## 📎 Documento descargable
 
-[📥Documento oficial](https://epmmop365-my.sharepoint.com/:w:/r/personal/diana_diaz_epmmop_gob_ec/Documents/DESARROLLO/NORMATIVA/ANEXOS/ETAPA%202%20%E2%80%93%20Identificaci%C3%B3n%20Preliminar%20del%20Requerimiento/Anexo_E2_Solicitud_Requerimiento.docx?d=wacf20e1c9aa6439cab8d36b72cceb2a6&csf=1&web=1&e=ayVq9b)
+[📥Documento oficial](https://epmmop365-my.sharepoint.com/:w:/g/personal/diana_diaz_epmmop_gob_ec/IQAcDvKsppqcQ6uNNrcszrKmAbQfKSz6wLANOhR4-SP_tm0?e=CRNONn)
 
 > El formato oficial se encuentra alojado en el repositorio institucional de documentos (SharePoint),
 > garantizando control de versiones, trazabilidad y seguridad de la información.

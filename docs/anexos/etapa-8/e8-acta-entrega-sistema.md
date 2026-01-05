@@ -35,6 +35,6 @@ El área usuaria declara recibido y conforme, según alcance acordado.
 
 ## 📎 Documento descargable
 
-[📥Documento oficial](https://epmmop365-my.sharepoint.com/:w:/r/personal/diana_diaz_epmmop_gob_ec/Documents/DESARROLLO/NORMATIVA/ANEXOS/ETAPA%208%20%E2%80%93%20Entrega%20y%20Capacitaci%C3%B3n/Anexo_E8_Acta_Entrega_Sistema.docx?d=w129205a34a7a4f4994137e0b2ea2881d&csf=1&web=1&e=QWhguW)
+[📥Documento oficial](https://epmmop365-my.sharepoint.com/:w:/g/personal/diana_diaz_epmmop_gob_ec/IQCjBZISekpJT5QTfgsuoogdAWg-s_rJBwGafr_me6sOXQo?e=WjiCfv)
 > El formato oficial se encuentra alojado en el repositorio institucional de documentos (SharePoint),
 > garantizando control de versiones, trazabilidad y seguridad de la información.

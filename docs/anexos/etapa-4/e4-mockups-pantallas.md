@@ -28,7 +28,7 @@ title: Anexo E4 - Mockups / Prototipos
 
 ## 📎 Documento descargable
 
-[📥Documento oficial](https://epmmop365-my.sharepoint.com/:w:/r/personal/diana_diaz_epmmop_gob_ec/Documents/DESARROLLO/NORMATIVA/ANEXOS/ETAPA%204%20%E2%80%93%20Dise%C3%B1o%20de%20la%20Soluci%C3%B3n/Anexo_E4_Mockups_Pantallas.docx?d=w4b688ba2a89e49fba39241a4744ae45a&csf=1&web=1&e=wpPnAy)
+[📥Documento oficial](https://epmmop365-my.sharepoint.com/:w:/g/personal/diana_diaz_epmmop_gob_ec/IQCii2hLnqj7SaOSQaR0SuRaAZQRmYmJTfYQaRquPvI9Xy8?e=Q3kliQ)
 
 > El formato oficial se encuentra alojado en el repositorio institucional de documentos (SharePoint),
 > garantizando control de versiones, trazabilidad y seguridad de la información.

@@ -13,7 +13,7 @@ title: Anexo E6 - Evidencias de Pruebas
 
 ## 📎 Documento descargable
 
-[📥Documento oficial](https://epmmop365-my.sharepoint.com/:w:/r/personal/diana_diaz_epmmop_gob_ec/Documents/DESARROLLO/NORMATIVA/ANEXOS/ETAPA%206%20%E2%80%93%20Pruebas/Anexo_E6_Evidencias_Pruebas.docx?d=w5ab893720575468a8ff6bc2bc0e864f7&csf=1&web=1&e=hToU8B)
+[📥Documento oficial](https://epmmop365-my.sharepoint.com/:w:/g/personal/diana_diaz_epmmop_gob_ec/IQByk7hadQWKRo_2vCvA6GT3AU5a_yJ_4542kMD8wxS_PCI?e=acZ71l)
 
 > El formato oficial se encuentra alojado en el repositorio institucional de documentos (SharePoint),
 > garantizando control de versiones, trazabilidad y seguridad de la información.

@@ -39,7 +39,7 @@ title: Anexo E7 - Acta de Paso a Producción
 
 ## 📎 Documento descargable
 
-[📥Documento oficial](https://epmmop365-my.sharepoint.com/:w:/r/personal/diana_diaz_epmmop_gob_ec/Documents/DESARROLLO/NORMATIVA/ANEXOS/ETAPA%207%20%E2%80%93%20Paso%20a%20Producci%C3%B3n/Anexo_E7_Acta_Paso_Produccion.docx?d=wf93257435ec8447fa5e9744970f4456c&csf=1&web=1&e=EaS9il)
+[📥Documento oficial](https://epmmop365-my.sharepoint.com/:w:/g/personal/diana_diaz_epmmop_gob_ec/IQBDVzL5yF5_RKXpdElw9EVsAZt4Y2aol6tUMDAsCaWN9BA?e=yJXqbW)
 
 > El formato oficial se encuentra alojado en el repositorio institucional de documentos (SharePoint),
 > garantizando control de versiones, trazabilidad y seguridad de la información.
