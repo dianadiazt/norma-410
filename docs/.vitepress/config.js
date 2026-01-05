@@ -21,7 +21,7 @@ export default {
                 {text: 'Marco normativo o referencial', link: '/procedimiento/normativo'},
                 {text: 'Definiciones y abreviaturas', link: '/procedimiento/definiciones'},
                 {text: 'Desarrollo (Etapas)', link: '/procedimiento/etapas'},
-                //{text: 'Control de Cambios', link: '/procedimiento/control-cambios'},
+                {text: 'Control de Cambios', link: '/procedimiento/control-cambios'},
             ],
 
             '/anexos/': [
