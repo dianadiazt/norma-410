@@ -79,7 +79,8 @@ Vigente desde la **fecha de inicio del proyecto** hasta:
 
 ## 📎 Documento descargable
 
-[📥Documento oficial](https://epmmop365-my.sharepoint.com/:w:/r/personal/diana_diaz_epmmop_gob_ec/Documents/DESARROLLO/NORMATIVA/ANEXOS/ETAPA%20PRINCIPAL%20%E2%80%93%20Gobernanza/Anexo_EP01_Asignacion_Roles_y_Responsabilidades.docx?d=wa6e620e4d6654e05a03989b18135e86a&csf=1&web=1&e=fdI5wG)
+[📥Documento oficial](
+https://epmmop365-my.sharepoint.com/:w:/g/personal/diana_diaz_epmmop_gob_ec/IQDkIOamZdYFTqA5ibGBNehqAQsLE-VIGL-yd-EB-bZogSk?e=ZX7s5Y)
 
 > El formato oficial se encuentra alojado en el repositorio institucional de documentos (SharePoint),
 > garantizando control de versiones, trazabilidad y seguridad de la información.
