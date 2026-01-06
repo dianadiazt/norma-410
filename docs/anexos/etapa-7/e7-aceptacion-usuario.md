@@ -22,7 +22,9 @@ El usuario/PO declara que la funcionalidad entregada cumple lo solicitado y auto
 
 ## 📎 Documento descargable
 
-[📥Documento oficial](https://epmmop365-my.sharepoint.com/:w:/g/personal/diana_diaz_epmmop_gob_ec/IQAVvWY3wK-2RISyULndT5uFAc1EmFhW3B7ri7dzCyKDds8?e=ltmPMe)
+<a :href="__C__.SHAREPOINT_ANEXOS.E7_ACEPTACION_USUARIO" target="_blank" rel="noopener">
+  📥 Documento oficial
+</a>
 
 > El formato oficial se encuentra alojado en el repositorio institucional de documentos (SharePoint),
 > garantizando control de versiones, trazabilidad y seguridad de la información.

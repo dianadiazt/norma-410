@@ -12,6 +12,9 @@ title: Anexo E9 - Plan de Mejoras Priorizadas
 
 ## 📎 Documento descargable
 
-[📥Documento oficial](https://epmmop365-my.sharepoint.com/:w:/g/personal/diana_diaz_epmmop_gob_ec/IQCGZoW7uOKMQbDBpHC6vE5mActNMjgACVaXx1aW1L6qNsU?e=WFcl5W)
+<a :href="__C__.SHAREPOINT_ANEXOS.E9_PLAN_MEJORAS" target="_blank" rel="noopener">
+  📥 Documento oficial
+</a>
+
 > El formato oficial se encuentra alojado en el repositorio institucional de documentos (SharePoint),
 > garantizando control de versiones, trazabilidad y seguridad de la información.

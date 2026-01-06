@@ -38,6 +38,10 @@ title: Anexo E8 - Manual Técnico (Formato)
 
 ## 📎 Documento descargable
 
-[📥Documento oficial](https://epmmop365-my.sharepoint.com/:w:/g/personal/diana_diaz_epmmop_gob_ec/IQAEGHvON3roTq_sepKeD6dzAf0gT07EU4V2ya4fuwXE76U?e=xyg7aP)
+<a :href="__C__.SHAREPOINT_ANEXOS.E8_MANUAL_TECNICO" target="_blank" rel="noopener">
+  📥 Documento oficial
+</a>
+
+
 > El formato oficial se encuentra alojado en el repositorio institucional de documentos (SharePoint),
 > garantizando control de versiones, trazabilidad y seguridad de la información.

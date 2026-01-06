@@ -28,7 +28,9 @@ title: Anexo E4 - Mockups / Prototipos
 
 ## 📎 Documento descargable
 
-[📥Documento oficial](https://epmmop365-my.sharepoint.com/:w:/g/personal/diana_diaz_epmmop_gob_ec/IQCii2hLnqj7SaOSQaR0SuRaAZQRmYmJTfYQaRquPvI9Xy8?e=Q3kliQ)
+<a :href="__C__.SHAREPOINT_ANEXOS.E4_MOCKUPS" target="_blank" rel="noopener">
+  📥 Documento oficial
+</a>
 
 > El formato oficial se encuentra alojado en el repositorio institucional de documentos (SharePoint),
 > garantizando control de versiones, trazabilidad y seguridad de la información.

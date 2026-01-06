@@ -46,7 +46,9 @@ Ejemplo: “Prefijo AVE, llaves PK: ID_, FK: ID_...”
 
 ## 📎 Documento descargable
 
-[📥Documento oficial](https://epmmop365-my.sharepoint.com/:w:/g/personal/diana_diaz_epmmop_gob_ec/IQAMGDm46aydRI7D9dU2fTiJAaqpUo0ITrIfAnI0dBvbeEs?e=CURJck)
+<a :href="__C__.SHAREPOINT_ANEXOS.E4_DISENO_BD" target="_blank" rel="noopener">
+  📥 Documento oficial
+</a>
 
 > El formato oficial se encuentra alojado en el repositorio institucional de documentos (SharePoint),
 > garantizando control de versiones, trazabilidad y seguridad de la información.

@@ -35,6 +35,11 @@ El área usuaria declara recibido y conforme, según alcance acordado.
 
 ## 📎 Documento descargable
 
-[📥Documento oficial](https://epmmop365-my.sharepoint.com/:w:/g/personal/diana_diaz_epmmop_gob_ec/IQCjBZISekpJT5QTfgsuoogdAWg-s_rJBwGafr_me6sOXQo?e=WjiCfv)
+<a :href="__C__.SHAREPOINT_ANEXOS.E8_ACTA_ENTREGA" target="_blank" rel="noopener">
+  📥 Documento oficial
+</a>
+
+
+
 > El formato oficial se encuentra alojado en el repositorio institucional de documentos (SharePoint),
 > garantizando control de versiones, trazabilidad y seguridad de la información.

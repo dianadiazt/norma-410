@@ -32,6 +32,9 @@ title: Anexo E8 - Acta de Capacitación
 
 ## 📎 Documento descargable
 
-[📥Documento oficial](https://epmmop365-my.sharepoint.com/:w:/g/personal/diana_diaz_epmmop_gob_ec/IQCC3nQvOH5YTZTt14HYkE5WAdT9DheJNO4wm5EWWPXfN1w?e=O8rbQk)
+<a :href="__C__.SHAREPOINT_ANEXOS.E8_ACTA_CAPACITACION" target="_blank" rel="noopener">
+  📥 Documento oficial
+</a>
+
 > El formato oficial se encuentra alojado en el repositorio institucional de documentos (SharePoint),
 > garantizando control de versiones, trazabilidad y seguridad de la información.

@@ -35,7 +35,9 @@ Indicar si: Aprobado / Aprobado con observaciones / No aprobado.
 
 ## 📎 Documento descargable
 
-[📥Documento oficial](https://epmmop365-my.sharepoint.com/:w:/r/personal/diana_diaz_epmmop_gob_ec/Documents/DESARROLLO/NORMATIVA/ANEXOS/ETAPA%206%20%E2%80%93%20Pruebas/Anexo_E6_Informe_Pruebas.docx?d=w1c16d2edb0f84efcb66628e4136029d5&csf=1&web=1&e=uH1oYl)
+<a :href="__C__.SHAREPOINT_ANEXOS.E6_INFORME_PRUEBAS" target="_blank" rel="noopener">
+  📥 Documento oficial
+</a>
 
 > El formato oficial se encuentra alojado en el repositorio institucional de documentos (SharePoint),
 > garantizando control de versiones, trazabilidad y seguridad de la información.

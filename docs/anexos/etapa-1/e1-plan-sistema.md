@@ -91,7 +91,9 @@ Ejemplo:
 
 ## 📎 Documento descargable
 
-[📥Documento oficial](https://epmmop365-my.sharepoint.com/:w:/g/personal/diana_diaz_epmmop_gob_ec/IQAe-3A1u45PT401H3CsW7XOAWZLEzIeZ3diHepaNN9pnqA?e=63rlUm)
+<a :href="__C__.SHAREPOINT_ANEXOS.E1_PLAN_SISTEMA" target="_blank" rel="noopener">
+  📥 Documento oficial
+</a>
 
 > El formato oficial se encuentra alojado en el repositorio institucional de documentos (SharePoint),
 > garantizando control de versiones, trazabilidad y seguridad de la información.

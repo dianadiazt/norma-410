@@ -39,7 +39,9 @@ title: Anexo E7 - Acta de Paso a Producción
 
 ## 📎 Documento descargable
 
-[📥Documento oficial](https://epmmop365-my.sharepoint.com/:w:/g/personal/diana_diaz_epmmop_gob_ec/IQBDVzL5yF5_RKXpdElw9EVsAZt4Y2aol6tUMDAsCaWN9BA?e=yJXqbW)
+<a :href="__C__.SHAREPOINT_ANEXOS.E7_ACTA_PASO_PRODUCCION" target="_blank" rel="noopener">
+  📥 Documento oficial
+</a>
 
 > El formato oficial se encuentra alojado en el repositorio institucional de documentos (SharePoint),
 > garantizando control de versiones, trazabilidad y seguridad de la información.

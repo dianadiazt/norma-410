@@ -37,6 +37,9 @@ Indicar si el sistema cumple expectativas y qué debe mejorarse.
 
 ## 📎 Documento descargable
 
-[📥Documento oficial](https://epmmop365-my.sharepoint.com/:w:/g/personal/diana_diaz_epmmop_gob_ec/IQBgyaISqAIpTLxtmm1JRmfZAfFGSaOjXkj8fcNefR8dF-U?e=6flHLf)
+<a :href="__C__.SHAREPOINT_ANEXOS.E9_INFORME_EVALUACION" target="_blank" rel="noopener">
+  📥 Documento oficial
+</a>
+
 > El formato oficial se encuentra alojado en el repositorio institucional de documentos (SharePoint),
 > garantizando control de versiones, trazabilidad y seguridad de la información.

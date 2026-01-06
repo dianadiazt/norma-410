@@ -14,7 +14,9 @@ title: Anexo E3 - Matriz de Trazabilidad
 
 ## 📎 Documento descargable
 
-[📥Documento oficial](https://epmmop365-my.sharepoint.com/:w:/g/personal/diana_diaz_epmmop_gob_ec/IQCB4UBffgedTIQPwVxyarRiAUplKFva3_EusME_vehy6Eo?e=EhdEaA)
+<a :href="__C__.SHAREPOINT_ANEXOS.E3_TRAZABILIDAD" target="_blank" rel="noopener">
+  📥 Documento oficial
+</a>
 
 > El formato oficial se encuentra alojado en el repositorio institucional de documentos (SharePoint),
 > garantizando control de versiones, trazabilidad y seguridad de la información.

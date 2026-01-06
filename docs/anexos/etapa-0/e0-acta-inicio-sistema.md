@@ -51,7 +51,9 @@ Ejemplo: “Fortalece control interno y gobierno TI”.
 
 ## 📎 Documento descargable
 
-[📥Documento oficial](https://epmmop365-my.sharepoint.com/:w:/g/personal/diana_diaz_epmmop_gob_ec/IQBRfXWCyev8TYZ0HS9DYx5ZAeIRkxX-nq_xEJrb8ntGphI?e=PtCzxp)
+<a :href="__C__.SHAREPOINT_ANEXOS.E0_ACTA_INICIO_SISTEMA" target="_blank" rel="noopener">
+  📥 Documento oficial
+</a>
 
 > El formato oficial se encuentra alojado en el repositorio institucional de documentos (SharePoint),
 > garantizando control de versiones, trazabilidad y seguridad de la información.

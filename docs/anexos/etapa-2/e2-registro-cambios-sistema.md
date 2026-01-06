@@ -25,7 +25,9 @@ title: Anexo E2 - Registro de Cambios del Sistema
 
 ## 📎 Documento descargable
 
-[📥Documento oficial](https://epmmop365-my.sharepoint.com/:w:/g/personal/diana_diaz_epmmop_gob_ec/IQAVAlAmwHB_RLH5mAWcGiR5AXVopdaAXA1vRVS2p-RUpVs?e=iXLNzl)
+<a :href="__C__.SHAREPOINT_ANEXOS.E2_REGISTRO_CAMBIOS" target="_blank" rel="noopener">
+  📥 Documento oficial
+</a>
 
 > El formato oficial se encuentra alojado en el repositorio institucional de documentos (SharePoint),
 > garantizando control de versiones, trazabilidad y seguridad de la información.

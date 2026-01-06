@@ -75,7 +75,9 @@ Las incidencias se registran como no conformidades (Anexo_E6_No_Conformidades) y
 
 ## 📎 Documento descargable
 
-[📥Documento oficial](https://epmmop365-my.sharepoint.com/:w:/g/personal/diana_diaz_epmmop_gob_ec/IQAWsjvLeX-lS7HDmarAyVXdAXICXIXj0VcUcTfkUv8yEMQ?e=kSaNcY)
+<a :href="__C__.SHAREPOINT_ANEXOS.E6_PLAN_PRUEBAS" target="_blank" rel="noopener">
+  📥 Documento oficial
+</a>
 
 > El formato oficial se encuentra alojado en el repositorio institucional de documentos (SharePoint),
 > garantizando control de versiones, trazabilidad y seguridad de la información.

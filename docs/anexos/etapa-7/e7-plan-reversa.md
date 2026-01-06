@@ -35,7 +35,9 @@ title: Anexo E7 - Plan de Reversa (Rollback)
 
 ## 📎 Documento descargable
 
-[📥Documento oficial](https://epmmop365-my.sharepoint.com/:w:/g/personal/diana_diaz_epmmop_gob_ec/IQBHIxRaXU-3SaN-qmRcEM99AcDtE_7GqSVedeR_7MMeilI?e=2QeGLz)
+<a :href="__C__.SHAREPOINT_ANEXOS.E7_PLAN_REVERSA" target="_blank" rel="noopener">
+  📥 Documento oficial
+</a>
 
 > El formato oficial se encuentra alojado en el repositorio institucional de documentos (SharePoint),
 > garantizando control de versiones, trazabilidad y seguridad de la información.

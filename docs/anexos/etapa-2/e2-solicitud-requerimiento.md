@@ -53,7 +53,9 @@ Ejemplo: “Depende de acceso a BD / ambiente pruebas / credenciales.”
 
 ## 📎 Documento descargable
 
-[📥Documento oficial](https://epmmop365-my.sharepoint.com/:w:/g/personal/diana_diaz_epmmop_gob_ec/IQAcDvKsppqcQ6uNNrcszrKmAbQfKSz6wLANOhR4-SP_tm0?e=CRNONn)
+<a :href="__C__.SHAREPOINT_ANEXOS.E2_SOLICITUD_REQUERIMIENTO" target="_blank" rel="noopener">
+  📥 Documento oficial
+</a>
 
 > El formato oficial se encuentra alojado en el repositorio institucional de documentos (SharePoint),
 > garantizando control de versiones, trazabilidad y seguridad de la información.
