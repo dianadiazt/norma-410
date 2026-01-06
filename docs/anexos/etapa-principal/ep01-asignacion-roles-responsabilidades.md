@@ -79,8 +79,7 @@ Vigente desde la **fecha de inicio del proyecto** hasta:
 
 ## 📎 Documento descargable
 
-[📥Documento oficial](
-https://epmmop365-my.sharepoint.com/:w:/g/personal/diana_diaz_epmmop_gob_ec/IQDkIOamZdYFTqA5ibGBNehqAQsLE-VIGL-yd-EB-bZogSk?e=ZX7s5Y)
+[📥 Documento oficial](__C__.SHAREPOINT_ANEXOS.EP01_ROLES_RESPONSABILIDADES)
 
 > El formato oficial se encuentra alojado en el repositorio institucional de documentos (SharePoint),
 > garantizando control de versiones, trazabilidad y seguridad de la información.

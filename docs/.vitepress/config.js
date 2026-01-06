@@ -1,13 +1,17 @@
-import {REPOS_CODIGO, REPOS_DOCUMENTACION, SHAREPOINT_ANEXOS, INSTITUCION} from './constants'
+import { CONSTANTES } from './constants'
+
 
 
 export default {
-    title: INSTITUCION.DOCUMENTO,
+    title: CONSTANTES.INSTITUCION.DOCUMENTO,
     description: 'Políticas, procedimiento y anexos',
     base: '/norma-410/',
     head: [
         ['link', { rel: 'icon', href: '/logo1.svg' }],
     ],
+    define: {
+        __C__: CONSTANTES,
+    },
     themeConfig: {
         nav: [
             {text: 'Inicio', link: '/'},
@@ -29,10 +33,6 @@ export default {
                     text: 'Etapa Principal',
                     collapsed: true,
                     items: [
-                        // {
-                        //     text: 'Listado',
-                        //     link: '/anexos/',
-                        // },
                         {
                             text: 'EP01 – Asignación de Roles y Responsabilidades',
                             link: '/anexos/etapa-principal/ep01-asignacion-roles-responsabilidades',
@@ -214,17 +214,6 @@ export default {
                         },
                     ],
                 },
-
-                // {text: 'Etapa 0 - Inicio', link: '/anexos/etapa0-inicio'},
-                // {text: 'Etapa 1 - Planificacion', link: '/anexos/etapa1-planificacion'},
-                // {text: 'Etapa 2 - Solicitud requerimientos', link: '/anexos/etapa2-solicitud-requerimientos'},
-                //{text: 'Etapa 3 - Detalle requerimientos', link: '/anexos/etapa3-detalle-requerimiento'},
-                //{text: 'Etapa 4 - Diseño', link: '/anexos/etapa4-diseño'},
-                //{text: 'Etapa 5 - Cronograma y desarrollo', link: '/anexos/etapa5-cronograma'},
-                //{text: 'Etapa 6 - Pruebas', link: '/anexos/etapa6-pruebas'},
-                // {text: 'Etapa 7 - Despliegue', link: '/anexos/etapa7-despliegue'},
-                //{text: 'Etapa 8 - Entrega', link: '/anexos/etapa8-entrega'},
-                //{text: 'Etapa 9 - Mejoras', link: '/anexos/etapa9-mejoras'},
             ],
             '/preguntas-frecuentes/': [
                 {text: 'Etapa 9 - Mejoras', link: '/anexos/etapa9-mejoras'},

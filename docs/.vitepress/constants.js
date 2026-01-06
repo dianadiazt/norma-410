@@ -32,7 +32,7 @@ export const SHAREPOINT_ANEXOS = {
 
   /* Etapa Principal */
   EP01_ROLES_RESPONSABILIDADES:
-    'https://epmmop365-my.sharepoint.com/.../EP01_Asignacion_Roles_y_Responsabilidades.docx',
+    'https://epmmop365-my.sharepoint.com/:w:/g/personal/fabian_narvaez_epmmop_gob_ec/IQBG7LI_tMeRQ6Q94aivLz5TAc5XHbc9cd8tfWLATeafw-4?e=MryeQ0',
 
   /* Etapa 0 – Sistema Nuevo */
   E0_ACTA_INICIO_SISTEMA:
@@ -132,4 +132,14 @@ export const INSTITUCION = {
   DOCUMENTO: 'GESTIÓN DE REQUERIMIENTOS DE DESARROLLO',
   VERSION: '1.0',
   FECHA: 'Diciembre 2025',
+}
+
+
+export const CONSTANTES = {
+  REPOS_CODIGO,
+  REPOS_DOCUMENTACION,
+  SHAREPOINT_ANEXOS,
+  SOPORTE,
+  NORMATIVA,
+  INSTITUCION,
 }
