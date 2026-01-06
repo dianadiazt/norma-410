@@ -79,9 +79,10 @@ Vigente desde la **fecha de inicio del proyecto** hasta:
 
 ## 📎 Documento descargable
 
-<a :href="__C__.SHAREPOINT_ANEXOS.EP01_ROLES_RESPONSABILIDADES" target="_blank" rel="noopener">
+<a :href="globalThis.__C__.SHAREPOINT_ANEXOS.EP01_ROLES_RESPONSABILIDADES" target="_blank" rel="noopener">
   📥 Documento oficial
 </a>
+
 
 > El formato oficial se encuentra alojado en el repositorio institucional de documentos (SharePoint),
 > garantizando control de versiones, trazabilidad y seguridad de la información.

@@ -9,8 +9,10 @@ export default {
     head: [
         ['link', { rel: 'icon', href: '/logo1.svg' }],
     ],
-    define: {
-        __C__: CONSTANTES,
+    vite: {
+        define: {
+            'globalThis.__C__': CONSTANTES,
+        },
     },
     themeConfig: {
         nav: [
