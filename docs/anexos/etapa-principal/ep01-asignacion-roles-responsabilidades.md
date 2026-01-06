@@ -79,7 +79,7 @@ Vigente desde la **fecha de inicio del proyecto** hasta:
 
 ## 📎 Documento descargable
 
-<a :href="globalThis.__C__.SHAREPOINT_ANEXOS.EP01_ROLES_RESPONSABILIDADES" target="_blank" rel="noopener">
+<a :href="__C__.SHAREPOINT_ANEXOS.EP01_ROLES_RESPONSABILIDADES" target="_blank" rel="noopener">
   📥 Documento oficial
 </a>
 
