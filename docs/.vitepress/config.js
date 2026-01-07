@@ -157,24 +157,24 @@ export default {
                     items: [
 
                         {
-                            text: 'E7 - Acta Paso a Producción',
-                            link: '/anexos/etapa-7/e7-acta-paso-produccion',
-                        },
-                        {
-                            text: 'E7 - Resultado Paso a Producción',
-                            link: '/anexos/etapa-7/e7-resultado-paso-produccion',
+                            text: 'E7 - Acta de Aceptación QA',
+                            link: '/anexos/etapa-7/e7-aceptacion-qa',
                         },
                         {
                             text: 'E7 - Acta de Aceptación de Usuario',
                             link: '/anexos/etapa-7/e7-aceptacion-usuario',
                         },
                         {
-                            text: 'E7 - Acta de Aceptación QA',
-                            link: '/anexos/etapa-7/e7-aceptacion-qa',
-                        },
-                        {
                             text: 'E7 - Plan de Reversa',
                             link: '/anexos/etapa-7/e7-plan-reversa',
+                        },
+                        {
+                            text: 'E7 - Acta Paso a Producción',
+                            link: '/anexos/etapa-7/e7-acta-paso-produccion',
+                        },
+                        {
+                            text: 'E7 - Resultado Paso a Producción',
+                            link: '/anexos/etapa-7/e7-resultado-paso-produccion',
                         },
                     ],
                 },
