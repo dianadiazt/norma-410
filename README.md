@@ -37,3 +37,11 @@ Este sitio utiliza **VitePress** para la generación de documentación estática
 │       └── deploy.yml         # Workflow de despliegue
 ├── package.json
 └── README.md
+```
+
+## LEVANTAR EL PROYECTO
+
+```text
+CD docs-norma410
+
+npm run docs:dev
