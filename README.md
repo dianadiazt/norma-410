@@ -6,13 +6,13 @@ Este sitio utiliza **VitePress** para la generación de documentación estática
 
 ---
 
-## 🌐 Sitio publicado
+## Sitio publicado
 
 🔗 https://dianadiazt.github.io/norma-410/
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - ⚡ **VitePress**
 - 🟢 **Node.js 20**
@@ -22,7 +22,7 @@ Este sitio utiliza **VitePress** para la generación de documentación estática
 
 ---
 
-## 📁 Estructura del proyecto
+## Estructura del proyecto
 
 ```text
 .
@@ -45,3 +45,14 @@ Este sitio utiliza **VitePress** para la generación de documentación estática
 CD docs-norma410
 
 npm run docs:dev
+
+````
+## SUBIR CAMBIOS
+```text
+git status
+git add .
+git commit -m "REFACTOR - readme"
+git push -u origin main
+````
+
+
